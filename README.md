@@ -3,6 +3,8 @@ Use machine learning for computer vision to draw bounding boxes around dogs in p
 
 NBViewer for easier viewing (recommended) [here](https://nbviewer.jupyter.org/github/rileynwong/dogspotting/blob/master/Image_detection.ipynb) 
 
+![dog picture](result.png)
+
 ## Setup 
 
 1. (Optional) Create Anaconda environment w/ Python 3.6: `$ conda create -n retinanet python=3.6 anaconda`
