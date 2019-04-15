@@ -1,5 +1,5 @@
 # Dogspotting
-Use machine learning for computer vision to draw bounding boxes around dogs in pictures
+Use machine learning for computer vision to draw bounding boxes around dogs in pictures. [See accompanying blog post.](https://www.rileynwong.com/blog/2019/3/5/dogspotting-using-machine-learning-to-draw-bounding-boxes-around-dogs-in-pictures)
 
 NBViewer for easier viewing (recommended) [here](https://nbviewer.jupyter.org/github/rileynwong/dogspotting/blob/master/Image_detection.ipynb) 
 
